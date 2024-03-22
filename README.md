@@ -1,6 +1,4 @@
-# Title
-
-Plotting : Working with code from the Matplotlib website to make plots.
+# Plotting : Working with code from the Matplotlib website to make plots
 
 ## Assigned: Friday, 22 March 2024
 
